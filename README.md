@@ -3,7 +3,7 @@
 All my Social Handel<br>
 <a href="https://www.linkedin.com/in/aman-yadav-9144021a3/"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a>
  <a href="https://www.instagram.com/spidey_aman007/"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png"/></a>
- <a href="https://www.hackerrank.com/Amanrocks007"><img src="https://img.icons8.com/windows/32/000000/hackerrank.png"/></a>
+ <a href="https://www.hackerrank.com/Amanrocks007"><img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="70px"/></a>
 <br>
 About Me 🚀
 <br>
