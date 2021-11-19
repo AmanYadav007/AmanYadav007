@@ -10,12 +10,13 @@ About Me 🚀
 🎓 I’m an Full Stack Web Developer and pursuing my Master in Computer Science.
 <br>
 👨‍💻 I am passionate about Web Dev, Machine Learning, & I enjoy learning new things.
-<hr>
+
 <!--
 **AmanYadav007/AmanYadav007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
+<p style="color: red;">-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_</p>
 
 - 🔭 I’m currently working on Web Application
 - 🌱 I’m currently learning Data Structure And Algorithm
