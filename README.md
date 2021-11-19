@@ -1,7 +1,9 @@
 ### Hi there its me Aman Yadav 👋
 <hr>
 All my Social Handel<br>
-<img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/>
+<a href="https://www.linkedin.com/in/aman-yadav-9144021a3/"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png"/></a>
+ <a href="https://www.instagram.com/spidey_aman007/"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-instagram-social-media-justicon-lineal-color-justicon.png"/></a>
+ <a href="https://www.hackerrank.com/Amanrocks007"><img src="https://img.icons8.com/windows/32/000000/hackerrank.png"/></a>
 <br>
 About Me 🚀
 <br>
