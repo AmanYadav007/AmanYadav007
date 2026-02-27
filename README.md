@@ -53,12 +53,6 @@ With experience across **React platforms, rich media ads, GSAP animation, and ad
 
 ## 📊 GitHub Stats & Activity
 
-### 📈 Statistics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmanYadav007&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Aman's Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanYadav007&theme=dark&hide_border=false&layout=compact" alt="Top Languages" height="170" />
-</p>
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AmanYadav007&theme=dark)
 
 ---
