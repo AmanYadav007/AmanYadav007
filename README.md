@@ -60,4 +60,4 @@ With experience across **React platforms, rich media ads, GSAP animation, and ad
 ## 🌍 Connect
 * 💼 **LinkedIn:** [Aman Yadav](https://linkedin.com/in/aman-yadav-9144021a3) 
 * 🧠 **GitHub:** [@AmanYadav007](https://github.com/AmanYadav007) 
-* 🎨 **Portfolio:** [Visit Portfolio](https://your-portfolio-link.com)
+* 🎨 **Portfolio:** [Visit Portfolio](https://amanypolio.netlify.app/)
